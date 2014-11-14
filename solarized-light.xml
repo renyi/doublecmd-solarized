@@ -1,0 +1,16 @@
+<Colors>
+    <Foreground>8616805</Foreground>
+    <Background>14939901</Background>
+    <Background2>14939901</Background2>
+    <Mark>3093212</Mark>
+    <Cursor>10592659</Cursor>
+    <CursorText>14939901</CursorText>
+    <UseInvertedSelection>False</UseInvertedSelection>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <UseFrameCursor>False</UseFrameCursor>
+    <FreeSpaceIndicator>
+      <ForeColor>0</ForeColor>
+      <BackColor>16777215</BackColor>
+      <UseGradient>True</UseGradient>
+    </FreeSpaceIndicator>
+  </Colors>
