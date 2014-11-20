@@ -8,4 +8,4 @@ Solarized theme for Double Commander.
 2. Replace the `<Colors></Colors>` section.
 
 
-Inspired by https://github.com/ckesc/doublecmd-solarized.
+Light theme originally by https://github.com/ckesc/doublecmd-solarized.
